@@ -2,11 +2,6 @@
 
 # Simulador de Ransomware
 
-## Descrição
-Este projeto é um simulador educacional de ransomware desenvolvido em Python. Ele implementa funcionalidades para criptografar e descriptografar arquivos utilizando o algoritmo AES (modo CTR). Além disso, permite criptografar múltiplos arquivos em um diretório.
-
-> **Aviso Legal:** Este código foi desenvolvido **somente para fins educacionais**. A criação e o uso de ransomware para fins maliciosos são ilegais e puníveis por lei.
-
 ---
 
 ## Funcionalidades
